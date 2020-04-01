@@ -1,6 +1,6 @@
 {
   "name": "vuesaxy",
-  "version": "3.11.15",
+  "version": "3.11.16",
   "description": "Framework Components for Vue js",
   "license": "MIT",
   "author": "ldrovira <luisdanielrovira8@gmail.com>",
@@ -24,9 +24,9 @@
     "responsive",
     "stylus"
   ],
-  "main": "dist/vuesax.common.js",
-  "unpkg": "dist/vuesax.umd.min.js",
-  "jsdelivr": "dist/vuesax.umd.min.js",
+  "main": "dist/vuesaxy.common.js",
+  "unpkg": "dist/vuesaxy.umd.min.js",
+  "jsdelivr": "dist/vuesaxy.umd.min.js",
   "private": false,
   "scripts": {
     "dev": "vuepress dev docs",
